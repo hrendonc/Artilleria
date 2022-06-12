@@ -19,7 +19,7 @@ Software libre y de código abierto para grabación de video y transmisión en v
 Descarga y comienza a transmitir rápidamente y de forma fácil en Windows, Mac o Linux.
 
 
-## Editores de Video
+## Servidores
 Con estas herramientas podrás crear, publicar y transmitir videos.
 
 ### Ngrok
