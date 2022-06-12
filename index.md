@@ -25,4 +25,4 @@ Con estas herramientas podrás crear, publicar y transmitir videos.
 ### Ngrok
 Es un servicio que nos permite crear nuestro servidor local en un subdominio para poder visualizarlo fuera de la LAN, a través de internet; por ejemplo, para realizar pruebas de intrusión necesitamos de un túnel donde recibiremos las conexiones, un método que puede sustituir el uso de Ngrok es el “PortForwarding”, sin embargo, este método es más laborioso, a comparación de Ngrok.
 
-[Visitar el sitio]([https://obsproject.com/es](https://ngrok.com/))
+[Visitar el sitio](https://ngrok.com/)
